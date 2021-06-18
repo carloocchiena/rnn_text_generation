@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#context
+results.md
+
 # C extensions
 *.so
 
